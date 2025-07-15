@@ -91,7 +91,7 @@ const backgroundC = () => {
 }
 }
 //done
-
+// push pull
 //check for draw
 const checkDraw = () => {
     if(clicks === 9){
